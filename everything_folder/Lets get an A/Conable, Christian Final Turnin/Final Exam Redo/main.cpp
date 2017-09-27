@@ -1,7 +1,5 @@
 /*
-  Name: CSC 17A Final Exam
   Author: Christian Conable
-  Date: 06/12/2014
 */
 
 #include <iostream>

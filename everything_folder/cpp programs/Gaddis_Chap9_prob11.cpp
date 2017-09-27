@@ -1,9 +1,3 @@
-/*
-  Christian Conable
-  Gaddis Chapter 9 problem 11
-  03/14/2014
-*/
-
 #include <iostream>
 using namespace std;
 

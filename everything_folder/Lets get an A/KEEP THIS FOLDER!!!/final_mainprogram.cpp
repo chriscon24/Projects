@@ -1,7 +1,6 @@
 /*
   Name: Main program for Final Project
   Author: Christian Conable
-  Date: 06/09/2014
 */
 #include <cstdlib>
 #include <iostream>

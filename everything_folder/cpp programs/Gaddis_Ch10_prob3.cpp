@@ -1,6 +1,5 @@
 /*
   Christian Conable
-  03/28/2014
   Gaddis Chapter 10 problem 3
 */
 

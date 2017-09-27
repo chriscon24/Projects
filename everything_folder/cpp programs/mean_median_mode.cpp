@@ -1,7 +1,6 @@
 /*
   Christian Conable
-  Mean, Median, Mode Problem
-  03/14/2014
+  Mean, Median, Mode 
 */
 
 #include <cstdlib>

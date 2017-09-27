@@ -1,7 +1,5 @@
 /* 
    Christian Conable
-   09/18/2013
-   Savitch Chap 2, prob 6
 */
 
 #include <iostream>

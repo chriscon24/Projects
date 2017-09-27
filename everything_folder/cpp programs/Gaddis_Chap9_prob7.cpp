@@ -1,7 +1,5 @@
 /*
   Christian Conable
-  Gaddis Chapter 9 problem 6
-  03/14/2014
 */
 
 
