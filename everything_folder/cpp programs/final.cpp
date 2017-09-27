@@ -1,9 +1,5 @@
 //File Name: Final.cpp
-//Author: Khallid Coulter
-//Conact Info: 9512339033 lasjapas@yahoo.com
-//Description: A collection of problems that were assigned for CSC 5's final
-//Last Changed: 
-
+//Author: Christian Conable
 
 void print_table();
 //outputs the array in grid form
