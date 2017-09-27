@@ -1,7 +1,5 @@
 /*
   Christian Conable
-  03/28/2014
-  Gaddis Chapter 12 problem 1
 */
 
 #include <iostream> 
