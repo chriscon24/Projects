@@ -1,7 +1,5 @@
 /*
   Christian Conable
-  Gaddis Chapter 9 problem 1 
-  03/14/2014
 */
 
 #include <cstdlib>
