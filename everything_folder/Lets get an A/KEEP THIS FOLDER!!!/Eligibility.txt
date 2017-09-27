@@ -1,0 +1,39 @@
+
+
+This next section of the program will determine
+your eligibility to receive financial aid, based
+on the number of members in your household and 
+the total income of said household. 
+
+Here are the statistics to give you a general idea 
+of how we calculate your financial aid:
+
+______________________________________________________
+Household Size |   Minimum Income   | Tuition Coverage|
+1	       |  $14,000	    |   100%	      |	
+2	       |  $19,000	    |   100%	      |
+3	       |  $27,000	    |   100%	      |
+4	       |  $34,000	    |   100%	      |
+5	       |  $40,000	    |   100%	      |
+6+	       |  $48,000	    |   100%	      |
+_______________|____________________|_________________|
+
+______________________________________________________
+Household Size |   Median Income    | Tuition Coverage|
+1	       |  $22,000	    |   50%	      |	
+2	       |  $26,000	    |   50%	      |
+3	       |  $34,000	    |   50%	      |
+4	       |  $42,000	    |   50%	      |
+5	       |  $48,000	    |   50%	      |
+6+	       |  $54,000	    |   50%	      |
+_______________|____________________|_________________|
+
+____________________________________________________________
+Household Size |   Income      	    |	 Tuition Coverage   |
+1	       |   $35,000   	    |   no tuition coverage |
+2	       |   $50,000          |   no tuition coverage |
+3	       |   $60,000          |   no tuition coverage |
+4	       |   $70,000	    |   no tuition coverage |
+5	       |   $80,000          |   no tuition coverage |
+6+	       |   $90,000	    |   no tuition coverage |
+_______________|____________________|_______________________|

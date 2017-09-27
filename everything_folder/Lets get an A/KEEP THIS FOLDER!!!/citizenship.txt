@@ -1,0 +1,5 @@
+
+This next section will determine you American citizenship status
+based on information pertaining to your residency status,
+TOEFL scores, passport, and what have you...
+
