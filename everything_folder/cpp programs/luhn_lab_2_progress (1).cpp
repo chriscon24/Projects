@@ -1,7 +1,6 @@
 /*
   Christian Conable
-  03/17/2014
-  Luhn Lab 2
+  Luhn Algorithm
 */
 
 #include <cstdlib>
