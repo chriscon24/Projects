@@ -1,7 +1,5 @@
 /*
   Christian Conable
-  Assignment 1
-  02/19/2014
 */
 
 #include <iostream>
